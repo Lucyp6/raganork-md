@@ -51,7 +51,7 @@ module.exports = {
     SESSION: (process.env.SESSION || process.env.SESSION_ID || '').trim() || 'Raganork~84fae0b0f0f9e0249ca2b538a4f6bb0a:67494f4e612f56547a6a553d',
     IMGBB_KEY: ["73cvxhfap6okh6yza7j49dz8w71miafwz6184w9wamobev19dbtu21blo1i1ly8k"],
     RG: process.env.RG || '919074309534-1632403322@g.us,120363116963909366@g.us',
-    BOT_INFO: process.env.BOT_INFO || 'Raganork;Skl11;0;https://i.imgur.com/P7ziVhr.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb',
+    BOT_INFO: process.env.BOT_INFO || 'Raganork;Skl11;2348070549443;https://i.imgur.com/P7ziVhr.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb',
     RBG_KEY: process.env.RBG_KEY || '',
     ALLOWED: process.env.ALLOWED || '234',
     NOT_ALLOWED: process.env.ALLOWED || '91,94,212',
